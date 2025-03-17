@@ -1,5 +1,5 @@
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm Hemanth</h3>
 
 <img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="coding" width="400" align="right">
 
